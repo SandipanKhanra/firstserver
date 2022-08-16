@@ -10,3 +10,5 @@ After that, in the terminal from the same folder run the following command
 > node server.js
 
 Then it will start the server and you can access the server from the browser by typing **localhost:3000** in the address bar
+
+To close the server press ***ctrl + c*** or ***cmd + c*** inside terminal
